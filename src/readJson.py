@@ -23,7 +23,8 @@ def save2md(data):
     f = open('reading.notes.md', 'w')
     for key, value in data.iteritems():
         #print key, value
-        title = "["+key+"]("+key+")"
+        short = key[0:key.find("/",10)]
+        title = "["+short+"]("+key+")"
         f.write(title+"\n")
         for doc in value:
             f.write("```\n")
