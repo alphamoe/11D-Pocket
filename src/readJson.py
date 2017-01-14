@@ -28,7 +28,7 @@ def save2md(data):
         f.write(title+"\n")
         for doc in value:
             f.write("```\n")
-            doc = textwrap.fill(doc.encode('utf-8'))
+            doc = textwrap.fill(doc.encode('utf-8'), 80)
             f.write(doc +"\n")
             f.write("```\n")
     f.close()
