@@ -1,5 +1,6 @@
 import json
 import sys
+import textwrap
 
 def process(fname):
     data={}
@@ -26,7 +27,8 @@ def save2md(data):
         f.write(title+"\n")
         for doc in value:
             f.write("```\n")
-            f.write(doc.encode('utf-8')+"\n")
+            doc = textwrap.fill(doc.encode('utf-8'))
+            f.write(doc +"\n")
             f.write("```\n")
     f.close()
 
