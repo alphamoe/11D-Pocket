@@ -1,5 +1,10 @@
 ### Read more
 
+[How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+> A properly formed Git commit subject line should always be able to complete the following sentence:
+* If applied, this commit will your subject line here
+
 [Being a Solo Founder: Pros, Cons, Tips & Tricks](https://baremetrics.com/blog/startup-solo-founder)
 
 > Founding a company is hard. You’ve got an infinite number of decisions to make while simultaneously trying to catch lightning in a bottle with creating something out of nothing. It’s even harder when you’re doing it alone.
