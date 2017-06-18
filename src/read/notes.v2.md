@@ -92,3 +92,9 @@ For as many reasons as there are Git subcommands, it’s wise to embrace the com
 > Living beautifully means treasuring every day and enjoying even the smallest moments. 
 
 > Cancer is a really ugly disease but it made me appreciate the beauty of being alive and being healthy and I will never take that for granted again.
+
+[Sequoia's Investment Memo on YouTube by Roelof Botha](https://www.slideshare.net/zebs/sequoias-investment-memo-on-youtube)
+
+> I learned of the YouTube service from a friend in roughtly July 2005 and shortly thereafter began uploading personal videos that I had created to the service so that members of my family could view them.
+
+> I saw YouTube as a next step in the evolution of user-generated content services, one that would allow ordinary users to experess themselves to the world through the medium of video. I felt that the growth potential for such a platform was enormous given the rapid spread of personal video cameras and the growing availability of broadband Internet connectivity to ordinary consumers.
