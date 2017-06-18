@@ -27,10 +27,10 @@ def save2md(data):
         title = "["+short+"]("+key+")"
         f.write(title+"\n")
         for doc in value:
-            f.write("```\n")
+            f.write("\n")
             doc = textwrap.fill(doc.encode('utf-8'), 80)
-            f.write(doc +"\n")
-            f.write("```\n")
+            f.write("> " + doc +"\n")
+        f.write("\n")
     f.close()
 
 if __name__=="__main__":
