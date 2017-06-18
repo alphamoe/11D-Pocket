@@ -46,3 +46,49 @@ For as many reasons as there are Git subcommands, it’s wise to embrace the com
 
 > What are your thoughts on being a solo founder? Any tips for making it work? What’s your experience been like?
 
+[Inspiring Women: Meet the Co-Founder of Winnie, a Yelp-Type App for Parents](http://www.livingly.com/Inspiring+Women/articles/nOLbwVFZVkv/Inspiring+Women+Meet+Co+Founder+Winnie+Yelp)
+
+> Instead of throwing in the towel on her new company, she managed to navigate being a new CEO while caring for her young daughter and supporting her husband through his cancer fight.
+
+> The good news is things are "much calmer now." Mauskopf's husband is cancer-free, they're about to celebrate their daughter's second birthday, and Winnie is now a community of over 25,000 parents. 
+
+> Livingly: Why was it important for you to start Winnie?
+
+> I needed to know everything from where to change my daughter’s diaper when I was out of the house to how to find the best local childcare to why the heck is my baby crying.
+
+* diaper
+
+> How has being a parent changed your career?
+
+> I also think becoming a parent has made me a lot more confident. If I can create another human life and be responsible for its survival, then surely I can start a company!
+
+> Don’t wait for the perfect time to follow your dreams. If you have an idea for something you want to exist in the world, go out and build it. Don’t wait for anyone to give you permission or the timing to be perfect. It turns out there’s never a perfect time.
+
+> I used to think I got where I am because I’m a really hard worker but I have more recently come to realize an insane amount of privilege has gotten me to where I am today. Success takes hard work but I also had a wonderful upbringing, supportive parents, and a great education. It would be ridiculous to think that I could achieved even a quarter of what I’ve achieved without this incredible foundation.
+
+* insane
+* privilege
+
+> The final thing that has gotten me to where I am today is my attitude. Life has not always gone my way, but it’s just made me more determined than ever to be successful. I have been knocked down too many times to count but I always seem to get back up and keep going, each time stronger than the last.
+
+> How you treat people counts for so much so it’s really important you not only do good work but you’re someone who people want to work with.
+
+> Did you ever want to throw in the towel?
+
+* towel
+
+> During this time, I was fortunate to have a lot of support from my family. Ironically, it was also Winnie too that was a big help to me, especially when I was acting as a solo parent for much of this time. 
+
+> I had a lot of one on one time with my daughter so finding places I could take her was important to me. I needed to keep her out of the house for most of the weekend so my husband could rest (we have a small apartment) so I used Winnie often to find new playgrounds and museums we could explore.
+
+> I used Winnie to find restaurants where we wouldn’t cause too much of a ruckus.
+
+> What is the best part of your day? Arriving at the office is my favorite part of the day. I’m always so excited to get to work for the day and focus on making the world better for parents.
+
+> At Livingly, our motto is "live life beautifully." What does living beautifully mean to you?
+
+* motto
+
+> Living beautifully means treasuring every day and enjoying even the smallest moments. 
+
+> Cancer is a really ugly disease but it made me appreciate the beauty of being alive and being healthy and I will never take that for granted again.
