@@ -95,6 +95,6 @@ For as many reasons as there are Git subcommands, it’s wise to embrace the com
 
 [Sequoia's Investment Memo on YouTube by Roelof Botha](https://www.slideshare.net/zebs/sequoias-investment-memo-on-youtube)
 
-> I learned of the YouTube service from a friend in roughtly July 2005 and shortly thereafter began uploading personal videos that I had created to the service so that members of my family could view them.
+> I learned of the YouTube service from a friend in roughly July 2005 and shortly thereafter began uploading personal videos that I had created to the service so that members of my family could view them.
 
-> I saw YouTube as a next step in the evolution of user-generated content services, one that would allow ordinary users to experess themselves to the world through the medium of video. I felt that the growth potential for such a platform was enormous given the rapid spread of personal video cameras and the growing availability of broadband Internet connectivity to ordinary consumers.
+> I saw YouTube as a next step in the evolution of user-generated content services, one that would allow ordinary users to express themselves to the world through the medium of video. I felt that the growth potential for such a platform was enormous given the rapid spread of personal video cameras and the growing availability of broadband Internet connectivity to ordinary consumers.
