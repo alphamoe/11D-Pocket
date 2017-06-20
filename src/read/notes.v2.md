@@ -3,7 +3,7 @@
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 > A properly formed Git commit subject line should always be able to complete the following sentence:
-If applied, this commit will your subject line here
+If applied, this commit will _your subject line here_
 
 > Learn to love the command line. Leave the IDE behind.
 For as many reasons as there are Git subcommands, it’s wise to embrace the command line. Git is insanely powerful; IDEs are too, but each in different ways. I use an IDE every day (IntelliJ IDEA) and have used others extensively (Eclipse), but I have never seen IDE integration for Git that could begin to match the ease and power of the command line (once you know it).
